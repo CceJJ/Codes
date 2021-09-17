@@ -10,6 +10,8 @@ int main(){
     nums.push_back(123);
     nums.push_back(67);
     nums.push_back(6);
+
+    nums.push_back(12312);
     
     int target = 73;
     vector<int>::iterator begin = nums.begin(),end = nums.end(),current;
